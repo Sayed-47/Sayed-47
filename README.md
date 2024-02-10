@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4bu-5ayed
-- 👀 I’m interested in Cyber Security, Matchine Learning
+- 👀 I’m interested in Cyber Security, Machine Learning
 - 🌱 I’m currently learning Basics of CS
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 💞️ I’m looking forward to collaborate on Open Source Projects
 
 
 <!---
