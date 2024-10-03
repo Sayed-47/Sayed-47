@@ -11,7 +11,7 @@
 
 ```
 Sayed-47
--------------------------
+--------
 📚 I am pursuing Computer Science & Engineering at the Bangladesh University of Professionals
 💻 I am a Graphics Designer and a Cyber Security Enthusiast
 📝 I have a strong interest in Cyber Security, Artificial Intelligence & Quantum Computing
