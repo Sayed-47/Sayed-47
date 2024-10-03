@@ -16,7 +16,7 @@ Sayed-47
 💻 I am a Graphics Designer and a Cyber Security Enthusiast
 📝 I have a strong interest in Cyber Security, Artificial Intelligence & Quantum Computing
 🔭 Working on Cloud Technologies & Quantum Computing
-🌱 Learning about Data Structure and Algorithm and Quantum physics stuff
+🌱 Learning about Data Structures, Algorithms and Quantum Physics
 🚩 Interested in Competitive Programming, Capture the Flag & technology-based Hackathons
 💖 In a complicated relationship with Cyber Security & Penetration Testing
 🌟 Main languages: C, C++, Java
