@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4bu-5ayed
+- 👋 Hi, I’m @Sayed-47
 - 👀 I’m interested in Cyber Security, Machine Learning
 - 🌱 I’m currently learning Basics of CS
 - 💞️ I’m looking forward to collaborate on Open Source Projects
