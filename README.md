@@ -12,7 +12,7 @@
 ```
 Sayed-47
 -------------------------
-💻 I am a self-taught Graphics Designer and a Cyber Security Enthusiast
+💻 I am a Graphics Designer and a Cyber Security Enthusiast
 📚 I am pursuing Computer Science & Engineering at the Bangladesh University of Professionals
 📝 I have a strong interest in Cyber Security, Artificial Intelligence & Quantum Computing
 🔭 Working on Cloud Technologies & Quantum Computing
