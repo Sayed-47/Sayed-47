@@ -1,3 +1,4 @@
+![Gif_Edited](https://github.com/user-attachments/assets/fa4144ac-fbf9-472c-ad56-cd5bd170fe1c)
 - 👋 Hi, I’m @Sayed-47
 - 👀 I’m interested in Cyber Security, Machine Learning
 - 🌱 I’m currently learning Basics of CS
