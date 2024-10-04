@@ -7,7 +7,7 @@
 
 ![Gif_Edited](https://github.com/user-attachments/assets/fa4144ac-fbf9-472c-ad56-cd5bd170fe1c)
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 ```
 Sayed-47
