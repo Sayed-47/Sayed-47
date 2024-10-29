@@ -2,7 +2,7 @@
 
 </h1>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&center=true&vCenter=true&width=1000&height=100&lines=Competetive+Programmer;CTF+Player;Graphics+Designer;Campus+Ambassador+@+Programming+Hero;Aspire+Leader+@+Aspire+Institute;Computer+Science+Student;AI,+ML+and+Cloud+Enthusiast">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&center=true&vCenter=true&width=1000&height=100&lines=Competetive+Programmer;CTF+Player;Graphics+Designer;Campus+Ambassador+@+Programming+Hero;Aspire+Leader+@+Aspire+Institute;Student+Expert+@+Postman;Computer+Science+Student;AI,+ML+and+Cloud+Enthusiast">
 </a>
 
 ![Gif_Edited](https://github.com/user-attachments/assets/fa4144ac-fbf9-472c-ad56-cd5bd170fe1c)
